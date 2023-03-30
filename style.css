@@ -4,9 +4,12 @@
   font-family: "Poppins", sans-serif;
 }
 
+span {
+  color: aquamarine;
+}
+
 body {
   padding: 10px 50px;
-  background-image: url(./assets/back.jpg);
 }
 
 header {
